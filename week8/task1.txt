@@ -1,0 +1,3 @@
+http://demo4296963.mockable.io/news-bussiness
+http://demo4296963.mockable.io/news-politics
+http://demo4296963.mockable.io/news-sport
